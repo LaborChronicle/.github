@@ -6,7 +6,7 @@ API = AWS API Gateway
 
 Monitoring/logging = AWS Cloudwatch
 
-Crawling = AWS Lambda, Amazon EventBridge, Rust, Scraper (Python + BeautifulSoup if this is too hard)
+Crawling = AWS Lambda, Amazon EventBridge, Python, BeautifulSoup
 
 Email Subscription = AWS Lambda, Python
 
